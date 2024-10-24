@@ -47,7 +47,7 @@ Our products include bridal dresses, shoes, tiaras, boleros and an extensive ran
   style={{ backgroundImage: "url('https://dawnelizabethstudios.com/wp-content/uploads/2020/09/Bridal-Session-at-The-McNay-Formanek-Dawn-Elizabeth-Studios-0011.jpg')" }}
 >
 	<div className="container flex flex-col-reverse mx-auto lg:flex-row">
-		<div className="flex flex-col px-6 py-8 space-y-6 rounded-sm sm:p-8 lg:p-12 lg:w-1/2 xl:w-2/5 dark:bg-violet-600 dark:text-gray-50">
+		<div className="flex flex-col px-6 py-8 space-y-6 rounded-sm sm:p-8 lg:p-12 lg:w-1/2 xl:w-2/5">
 			<div className="flex space-x-2 sm:space-x-4">
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="flex-shrink-0 w-6 h-6">
   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.236l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
