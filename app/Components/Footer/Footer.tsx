@@ -21,8 +21,8 @@ const Footer = () => {
 </div>
 
 
-          <div className="grid grid-cols-2 text-sm gap-x-3 gap-y-8 lg:w-2/3 sm:grid-cols-4">
-            <div className="space-y-3">
+          <div className="grid grid-cols-2 text-black text-sm gap-x-3 gap-y-8 lg:w-2/3 sm:grid-cols-4">
+            <div className="space-y-3 text-black ">
               <h3 className="tracking-wide uppercase dark:text-gray-900">Products</h3>
               <ul className="space-y-1">
                 <li><a rel="noopener noreferrer" href="/dataanalytics">  design</a></li>
@@ -31,7 +31,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            <div className="space-y-3">
+            <div className="space-y-3 text-black ">
               <h3 className="tracking-wide uppercase dark:text-gray-900">Company</h3>
               <ul className="space-y-1">
                 <li><a rel="noopener noreferrer" href="/privacy">Privacy</a></li>
@@ -39,7 +39,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            <div className="space-y-3">
+            <div className="space-y-3 text-black ">
               <h3 className="uppercase dark:text-gray-900">Features</h3>
               <ul className="space-y-1">
                 <li><a rel="noopener noreferrer" href="/solution">design</a></li>
@@ -49,7 +49,7 @@ const Footer = () => {
             </div>
 
            
-            <div className="space-y-3">
+            <div className="space-y-3 text-black ">
   <h3 className="uppercase dark:text-gray-900">Social Media</h3>
   <div className="flex space-x-3">
     <a rel="noopener noreferrer" href="https://in.linkedin.com/company/velvetbud" title="LinkedIn" className="p-1">

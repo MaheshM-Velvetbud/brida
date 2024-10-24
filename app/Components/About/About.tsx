@@ -43,7 +43,7 @@ Our products include bridal dresses, shoes, tiaras, boleros and an extensive ran
 	
 </section>
 <section
-  className="bg-cover bg-center py-64 pt-12"
+  className="bg-cover text-black  bg-center py-64 pt-12"
   style={{ backgroundImage: "url('https://dawnelizabethstudios.com/wp-content/uploads/2020/09/Bridal-Session-at-The-McNay-Formanek-Dawn-Elizabeth-Studios-0011.jpg')" }}
 >
 	<div className="container flex flex-col-reverse mx-auto lg:flex-row">
@@ -55,7 +55,7 @@ Our products include bridal dresses, shoes, tiaras, boleros and an extensive ran
 
 				<div className="space-y-2">
 					
-					<p className="leading-snug">The Wedding Shop Dubai, is the regions leading bridal boutique with an extensive range of ready-to-wear bridal gowns and accessories from the worlds leading fashion houses.</p>
+					<p className=" text-black leading-snug">The Wedding Shop Dubai, is the regions leading bridal boutique with an extensive range of ready-to-wear bridal gowns and accessories from the worlds leading fashion houses.</p>
 				</div>
 			</div>
 			<div className="flex space-x-2 sm:space-x-4">
@@ -65,7 +65,7 @@ Our products include bridal dresses, shoes, tiaras, boleros and an extensive ran
 
 				<div className="space-y-2">
 				
-					<p className="leading-snug">Since 2002, this family run boutique has prided itself on providing the best possible service and a relaxed atmosphere for each and every bride. Our collection of over 200 dresses is the regions largest, creating ultimate choice for brides to be.</p>
+					<p className="leading-snug text-black ">Since 2002, this family run boutique has prided itself on providing the best possible service and a relaxed atmosphere for each and every bride. Our collection of over 200 dresses is the regions largest, creating ultimate choice for brides to be.</p>
 				</div>
 			</div>
 			<div className="flex space-x-2 sm:space-x-4">
@@ -75,7 +75,7 @@ Our products include bridal dresses, shoes, tiaras, boleros and an extensive ran
 
 				<div className="space-y-2">
 					
-					<p className="leading-snug">To complement your dress our buying team has identified bridal accessories from Spain, Germany, Canada, USA and UK, to add the final touches to your overall look.</p>
+					<p className="leading-snug text-black ">To complement your dress our buying team has identified bridal accessories from Spain, Germany, Canada, USA and UK, to add the final touches to your overall look.</p>
 				</div>
 				
 			</div>
